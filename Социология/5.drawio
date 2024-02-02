@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2024-01-16T15:55:35.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="m52G1N_hs22xkP4-HppP" version="22.1.18" type="device">
+  <diagram name="Страница — 1" id="DI5PgBIPxwMH_zinwh8j">
+    <mxGraphModel dx="1889" dy="1224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.296;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MBCLNIW6F7WZF4eh90KQ-1" target="MBCLNIW6F7WZF4eh90KQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.697;exitY=-0.053;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MBCLNIW6F7WZF4eh90KQ-1" target="MBCLNIW6F7WZF4eh90KQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MBCLNIW6F7WZF4eh90KQ-1" target="MBCLNIW6F7WZF4eh90KQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MBCLNIW6F7WZF4eh90KQ-1" target="MBCLNIW6F7WZF4eh90KQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MBCLNIW6F7WZF4eh90KQ-1" target="MBCLNIW6F7WZF4eh90KQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-1" value="виды социальных девиаций по Р. Мертону" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="227" y="270" width="319" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MBCLNIW6F7WZF4eh90KQ-5" target="MBCLNIW6F7WZF4eh90KQ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-5" value="Бунтарство" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="224" y="151" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MBCLNIW6F7WZF4eh90KQ-6" target="MBCLNIW6F7WZF4eh90KQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-6" value="Соответствие" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="326.5" y="381" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MBCLNIW6F7WZF4eh90KQ-7" target="MBCLNIW6F7WZF4eh90KQ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-7" value="Инновация" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="41" y="271.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MBCLNIW6F7WZF4eh90KQ-8" target="MBCLNIW6F7WZF4eh90KQ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-8" value="Ритуализм" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="605" y="271.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MBCLNIW6F7WZF4eh90KQ-9" target="MBCLNIW6F7WZF4eh90KQ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-9" value="Отторжение" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="439" y="153" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-15" value="Индивидуум признает цели, но использует необычные или нелегальные средства для их достижения. Пример: преступность для достижения успеха" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-221" y="244.5" width="202" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-16" value="Индивидуум придерживается как целей, так и средств для их достижения, соответствуя нормам общества" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="481" width="198" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-17" value="Индивидуум откажется от целей, сохраняя привычные средства. Например, человек может тщетно следовать правилам, но уже не стремится к реальной цели." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="806" y="250.5" width="210" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-18" value="Отказ от как целей, так и средств их достижения. Это может быть характерно для людей, попавших в состояние бездомности, наркомании и т.д." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="511" y="18" width="214" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="MBCLNIW6F7WZF4eh90KQ-19" value="Отказ от установленных целей и средств их достижения, но при этом замещение их новыми, часто радикальными. Примеры: политические движения, революции" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-2" width="231" height="111" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

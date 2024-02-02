@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" modified="2024-01-16T10:52:13.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="aEt0Gp0zdxr9kWG82IPS" version="22.1.15" type="device">
+  <diagram name="Страница — 1" id="xB3N_uBOwq0j_BPUgIGB">
+    <mxGraphModel dx="1626" dy="1079" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="w4Yjo4_Vrha1CUjF_qF8-1" target="w4Yjo4_Vrha1CUjF_qF8-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="378" y="222" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="w4Yjo4_Vrha1CUjF_qF8-1" target="w4Yjo4_Vrha1CUjF_qF8-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="223" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w4Yjo4_Vrha1CUjF_qF8-1" target="w4Yjo4_Vrha1CUjF_qF8-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.716;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="w4Yjo4_Vrha1CUjF_qF8-1" target="w4Yjo4_Vrha1CUjF_qF8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w4Yjo4_Vrha1CUjF_qF8-1" target="w4Yjo4_Vrha1CUjF_qF8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w4Yjo4_Vrha1CUjF_qF8-1" target="w4Yjo4_Vrha1CUjF_qF8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.142;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="w4Yjo4_Vrha1CUjF_qF8-1" target="w4Yjo4_Vrha1CUjF_qF8-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="277" y="223" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-1" value="Виды социологических исследований" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="211" y="226" width="282" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w4Yjo4_Vrha1CUjF_qF8-4" target="w4Yjo4_Vrha1CUjF_qF8-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-4" value="Точечное" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="157" y="337" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w4Yjo4_Vrha1CUjF_qF8-5" target="w4Yjo4_Vrha1CUjF_qF8-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-5" value="Социальный мониторинг" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="399" y="341" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w4Yjo4_Vrha1CUjF_qF8-6" target="w4Yjo4_Vrha1CUjF_qF8-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-6" value="Когортные" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="470" y="99" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w4Yjo4_Vrha1CUjF_qF8-7" target="w4Yjo4_Vrha1CUjF_qF8-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-7" value="Аналитическое" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="292" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w4Yjo4_Vrha1CUjF_qF8-8" target="w4Yjo4_Vrha1CUjF_qF8-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-8" value="Панельные" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w4Yjo4_Vrha1CUjF_qF8-9" target="w4Yjo4_Vrha1CUjF_qF8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-9" value="Логитюдное" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="26" y="224.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w4Yjo4_Vrha1CUjF_qF8-10" target="w4Yjo4_Vrha1CUjF_qF8-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-10" value="Трендовые" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="566" y="224.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-12" value="изучение одних и тех же явлений через определенные интервалы времени. Частота повторяемости и продолжительность интервалов определяются произвольно. Важно лишь, чтобы одни и те же лица изучались по сходной методике" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-131" y="-53" width="292" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-13" value="ставит целью углубленное изучение явления, когда нужно не только описать структуру, но и узнать, что определяет его основные количественные и качественные параметры, имеет особенно большую научную и практическую ценность выясняется, носит пи связь между характеристиками изучаемого авления причинный характер" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="217" y="-127" width="276" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-16" value="представляет собой целостную систему изучения и отслеживания тех изменений, которые происходят с определенными социальными объектами в ходе их Функционирования и развития. Это отслеживание осуществляется на основе сбора, хранения, обработки и сравнения той информации, которая накапливается В ходе долгосрочного исследования изучаемого объекта" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="437" y="455" width="339" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-17" value="исследование, которое ограничено по времени и фокусируется на определенном моменте или явлении в социальной сфере. В отличие от более обширных исследований, которые могут занимать длительное время и включать большой объем данных, точечные исследования обычно проводятся для получения непосредственной информации о конкретном аспекте социальной жизни. Они могут использоваться для изучения отдельных событий, поведения групп или отдельных индивидов, а также для проверки гипотез или исследования конкретных тенденций или проблем" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="440" width="440" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-18" value="изучение индивидуальных изменений членов молодежной группы. Основным требованием понгитюдного исследования является единство программы, инструментария и выборки на всем протяжении изучения объекта, которое может длиться несколько лет" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-321" y="193" width="288" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-19" value="осуществляются на аналогичных выборках или в рамках единой генеральной совокупности с целью изучения изменений на уровне социальных групп" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="751" y="199" width="179" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="w4Yjo4_Vrha1CUjF_qF8-20" value="изучают специфические совокупности людей в течение определенного времени, например года, переживших одновременно одно и то же событие (вступивших в брак, призванных в армию, поступивших в вуз и т.д.)." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="542" y="-42" width="275" height="109" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
